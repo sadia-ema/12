@@ -1,0 +1,95 @@
+
+.header{
+background: #34495E;
+color: #F9F9FA;
+display: inline-block;
+padding: 7px 250px;
+border-top: 3px solid #3498DB;
+margin-left: 10px;
+
+}
+.one{
+    background: #79B99B;
+    color: black;
+    border: 4px solid #2C3E50;
+    margin-top: 20px;
+    padding: 20px 22px 32px 22px;
+    width: 308px;
+    font-size: 12px;
+    box-shadow: 2px 2px 8px #2C3E50;
+    
+}
+.two{
+        text-align: left;
+        background: #E67E22;
+        display: inline-block;
+        padding: 3px 6px 3px 15px;
+        width: 380px;
+        border-left: 4px solid #3598DA;
+        border-radius: 0px 32px 32px 0px;
+        margin: 20px 650px 0px 250px;
+        box-shadow: 1px;
+        box-shadow: 2px 2px 8px #3598DA ;
+        font-size: 12px;
+
+}
+.three{
+    text-align: right;
+        background: #1ABC9C;
+        display: inline-block;
+        padding: 3px 6px 3px 15px;
+        width: 380px;
+        border-right: 4px solid #8F45AE;
+        border-radius: 32px 0px 0px 32px;
+        box-shadow: 1px;
+        box-shadow: 2px 2px 8px #8F45AE;
+        font-size: 12px;
+        margin-top: 20px;
+        margin-right: -150px;
+}
+.four-2{
+    margin-left: -247px;
+}
+.four{
+    margin-top: 20px;
+    background: #E74C3C;
+    display: inline-block;
+    border-radius: 100px 100px 0px 0px;
+    font-size: 12px;
+    border-top: 4px solid #e69c1e;
+    padding: 10px;
+    box-shadow: 2px 2px 12px #f6a919;
+    width: 200px;
+    height: 120px;
+}
+.footer{
+
+
+    background: #34495E;
+    color: #F9F9FA;
+    display: inline-block;
+    padding: 7px 250px;
+    border-top: 3px solid #3498DB;
+    margin-top: 20px;
+    margin-left: 6px;
+ 
+}
+sub{
+ color: #3494D5;
+}
+.img1{
+    width: 30px;
+    padding-top: 6px;
+}
+h3{
+    margin-top: -3px;
+   
+}
+.img2{
+    width: 30px;
+    padding-top: 6px;
+}
+.img3{
+    width: 30px;
+    padding-top: 6px;
+}
